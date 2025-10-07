@@ -30,7 +30,8 @@ This answers the fundamental user question:
 
 The core technical output is the **predicted metric increase visualized over time**.  
 
-*(CRITICAL: Upload the chart image to `assets/demo_screenshot.png` and it will display here once the repo is live!)*
+Neuro boutique 
+https://youtu.be/0r_SDLBboBU
 
 ---
 
