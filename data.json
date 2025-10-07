@@ -1,0 +1,11 @@
+[
+    {"name": "NeuroFocus Capsules", "category": "Focus", "price": 39.99, "description": "Premium nootropic for mental clarity and sustained focus."},
+    {"name": "Cogniva Gummies", "category": "Memory", "price": 24.99, "description": "Chewable vitamins for recall and mental stamina."},
+    {"name": "CalmNeuro Drops", "category": "Calm", "price": 29.99, "description": "Concentrated drops for calm, restful states."},
+    {"name": "NeuroTrainer Handheld", "category": "Gadget", "price": 149.00, "description": "Cognitive trainer for attention & processing speed."},
+    {"name": "MindWave EEG Headband", "category": "Device", "price": 199.00, "description": "EEG wearable for biofeedback and meditation."},
+    {"name": "NeuroCharge", "category": "Energy", "price": 19.99, "description": "Effervescent drink for quick cognitive lift."},
+    {"name": "HappyMind Chews", "category": "Mood", "price": 14.99, "description": "Chews to support mood and resilience."},
+    {"name": "SleepSync Eye Mask", "category": "Sleep", "price": 34.99, "description": "Smart mask for restorative sleep."}
+]
+
